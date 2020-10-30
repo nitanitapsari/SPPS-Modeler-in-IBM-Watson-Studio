@@ -1,2 +1,2 @@
-# SPPS-Modeler-in-IBM-Watson-Studio
-Graphically build and evaluate machine learning models by using the SPSS Modeler flow feature in IBM Watson Studio
+# Machine-Learning-Models-by-SPPS-Modeler-in-IBM-Watson-Studio
+Predict car prices by creating and graphically evaluating machine learning models using the SPSS Modeler flow feature in IBM Watson Studio
